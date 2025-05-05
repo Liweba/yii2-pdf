@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require robregonm/yii2-pdf "*"
+$ php composer.phar require Liweba/yii2-pdf "*"
 ```
 
 or add
 
 ```
-"robregonm/yii2-pdf": "*"
+"Liweba/yii2-pdf": "*"
 ```
 
 to the require section of your `composer.json` file.
